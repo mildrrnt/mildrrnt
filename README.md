@@ -1,11 +1,13 @@
-<p style = "text-align:center;">## Worranittha H.<br>
-#### 03's, student, bkk</p>
+## <center> Worranittha H. </center>
+#### <center> 03's, student, bkk </center>
 
 _________________
 
 👽 pronouns: she/her <br>
 📖 learning in process: Python, Javascript <br>
 📮 contact me: [worranittha.h@gmail.com](mailto:worranittha.h@gmail.com)
+
+![BadgeStats](https://gists-readme.yizack.com/api?user=mildrrnt)
 
 <!--
 **mildrrnt/mildrrnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+>
