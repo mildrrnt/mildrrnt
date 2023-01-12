@@ -3,8 +3,8 @@
 
 _________________
 
-👽 pronouns: she/her
-📖 learning in process: Python, Javascript
+👽 pronouns: she/her <br>
+📖 learning in process: Python, Javascript <br>
 📮 contact me: [worranittha.h@gmail.com](mailto:worranittha.h@gmail.com)
 
 <!--
