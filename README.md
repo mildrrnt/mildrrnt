@@ -12,11 +12,12 @@
 [![DiscordBadge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/802629187193667584)
 [![InstagramBadge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mildrrnt/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildrrnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildrrnt&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![FigmaBadge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![KritaBadge](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
