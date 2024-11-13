@@ -3,7 +3,7 @@
 
 ---
 
-📖 **learning in process**: Python, Javascript
+📖 **learning in process**: Python, Javascript, Java, TypeScript
 
 📮 **contact me**: [worranittha.h@gmail.com](mailto:worranittha.h@gmail.com)
 
