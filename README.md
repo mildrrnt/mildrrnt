@@ -1,6 +1,6 @@
 <h1>Worranittha H.</h1>
 
-- Interested in Web Development
+- Interested in web development
 - More comfortable doing front-end, but still learning back-end along the way
 - Love-hate relationship with bedtime revenge
 
