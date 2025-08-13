@@ -1,23 +1,28 @@
-<h2 align="center"><b> Worranittha H. </b></h2>
-<h4 align="center"><i> '03s student, BKK </i></h4>
+<h1>Worranittha H.</h1>
 
----
+- Interested in Web Development
+- More comfortable doing front-end, but still learning back-end along the way
+- Love-hate relationship with bedtime revenge
 
-📖 **learning in process**: Python, Javascript, Java, TypeScript
+<h2>🛠️Skills</h2>
 
-📮 **contact me**: [worranittha.h@gmail.com](mailto:worranittha.h@gmail.com)
+![Front-End](https://go-skill-icons.vercel.app/api/icons?i=typescript,js,react,nextjs,astro,tailwindcss)
+
+![Back-End](https://go-skill-icons.vercel.app/api/icons?i=java,cs,dotnet)
+
+![Testing](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,playwright)
+
+![Data Science](https://go-skill-icons.vercel.app/api/icons?i=python,opencv,numpy,scikitlearn)
+
+![Misc](https://go-skill-icons.vercel.app/api/icons?i=html,css,figma,storybook)
+
+
+<h2>💬Contact Me</h2>
+
+- 🤝 [LinkedIn](www.linkedin.com/in/worranittha-hukhan)
+- ✉️ [worranittha.h@gmail.com](mailto:worranittha.h@gmail.com)
 
 <!--
-[![DiscordBadge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/802629187193667584)
-[![InstagramBadge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mildrrnt/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildrrnt&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![FigmaBadge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![KritaBadge](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-![BadgeStats](https://gists-readme.yizack.com/api?user=mildrrnt)
- 
 
 **mildrrnt/mildrrnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->
